@@ -1,0 +1,28 @@
+body {
+	background: navajowhite url(../Latihan4/gradient.png); 
+}
+
+h1, h2 {
+	color: navajowhite;
+}
+
+ol li a {
+	color: skyblue;
+}
+
+ul li a {
+	color: indianred;
+}
+
+a {
+
+	color: limegreen;
+}
+
+.bold { 
+	font-weight: bold;
+}
+
+a.bold {
+	font-size: 30px;
+}

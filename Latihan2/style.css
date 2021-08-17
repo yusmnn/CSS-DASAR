@@ -1,0 +1,5 @@
+/* contoh properti font */
+
+body {
+	font: italic bold normal 16px/18px helvetica, arial, sans-serif;
+}
